@@ -14,7 +14,7 @@
     "appcenter": "^2.4.0",
     "appcenter-analytics": "^2.4.0",
     "appcenter-crashes": "^2.4.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "16.9.0",
     "react-native": "0.61.2",
     "react-native-cli": "^2.0.1",
